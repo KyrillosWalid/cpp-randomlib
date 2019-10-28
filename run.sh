@@ -1,2 +1,2 @@
-g++ getRandomInt.cpp -O3 -s -o getRandomInt
-./getRandomInt
+g++ Examples.cpp -O3 -s -o Examples
+./Examples
